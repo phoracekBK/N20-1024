@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiButton
 	{
-		id: q486539372
-		objId: 486539372
+		id: q486539371
+		objId: 486539371
 		x: 688
 		y: 434
 		width: 110
@@ -135,8 +135,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088721
-		objId: 671088721
+		id: q671088720
+		objId: 671088720
 		x: 680
 		y: 244
 		width: 72
@@ -149,8 +149,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088722
-		objId: 671088722
+		id: q671088721
+		objId: 671088721
 		x: 680
 		y: 282
 		width: 72
@@ -312,8 +312,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539373
-		objId: 486539373
+		id: q486539372
+		objId: 486539372
 		x: 0
 		y: 434
 		width: 110

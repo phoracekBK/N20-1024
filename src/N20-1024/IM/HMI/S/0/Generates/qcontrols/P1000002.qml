@@ -658,4 +658,20 @@ IGuiPage
 		qm_Anchors.rightMargin: 2
 		qm_Anchors.topMargin: 2
 	}
+	IGuiTextField
+	{
+		id: q268435577
+		objId: 268435577
+		x: 523
+		y: 290
+		width: 149
+		height: 23
+		qm_Transparent : true 
+		qm_TextColor: "#ffff0000"
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 3
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+	}
 }

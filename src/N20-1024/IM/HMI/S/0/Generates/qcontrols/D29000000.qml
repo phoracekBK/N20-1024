@@ -109,8 +109,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539374
-		objId: 486539374
+		id: q486539373
+		objId: 486539373
 		x: 383
 		y: 194
 		width: 97
@@ -134,8 +134,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539375
-		objId: 486539375
+		id: q486539374
+		objId: 486539374
 		x: 287
 		y: 194
 		width: 97
@@ -159,8 +159,8 @@ IGuiDialogView
 	}
 	IGuiGraphicButton
 	{
-		id: q486539376
-		objId: 486539376
+		id: q486539375
+		objId: 486539375
 		x: 446
 		y: 0
 		width: 34
@@ -180,8 +180,8 @@ IGuiDialogView
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088723
-		objId: 671088723
+		id: q671088722
+		objId: 671088722
 		x: 0
 		y: 194
 		width: 478
