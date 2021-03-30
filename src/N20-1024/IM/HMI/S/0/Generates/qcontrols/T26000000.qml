@@ -136,12 +136,13 @@ IGuiTemplate
 	{
 		id: q268435480
 		objId: 268435480
-		x: 602
+		x: 550
 		y: 49
-		width: 45
+		width: 72
 		height: 22
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignRight
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3

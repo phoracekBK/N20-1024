@@ -150,7 +150,7 @@ IGuiPage
 		objId: 268435485
 		x: 370
 		y: 46
-		width: 64
+		width: 65
 		height: 25
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"
@@ -162,8 +162,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539376
-		objId: 486539376
+		id: q486539305
+		objId: 486539305
 		x: 504
 		y: 435
 		width: 148
