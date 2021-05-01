@@ -85,7 +85,7 @@ IGuiPage
 		objId: 268435584
 		x: 337
 		y: 49
-		width: 140
+		width: 124
 		height: 25
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"
@@ -190,7 +190,7 @@ IGuiPage
 		objId: 268435587
 		x: 98
 		y: 275
-		width: 135
+		width: 117
 		height: 23
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"
@@ -234,7 +234,7 @@ IGuiPage
 		objId: 268435588
 		x: 561
 		y: 275
-		width: 135
+		width: 117
 		height: 23
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"

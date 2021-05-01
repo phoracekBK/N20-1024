@@ -101,16 +101,23 @@ Přerušní a opětovné navázání pohybu zejména svařovacích serv v plnné
 - 15 - 0080 - rezerva
 
 
+** heslo pro safety: 2222 
+
 
 
 ** TODO **
-* přidat do programu signály z třetího periferního skeneru
-* nakonfigurovat periferní skener
 * zjistit maximální svařovací pozici
-* přidat do hmi alarm upozorňující, že je vypnuto ovládání střižného válce
+* přidat kontrolu na základě střihu pro zastavení programu pro každý projekt zvlášť, přidat do nastavení programu
+* provést kalibraci převodového poměru na podávací serva pásky
 
 
 ** DONE ** 
+* přidat do programu signály z třetího periferního skeneru
+* nakonfigurovat periferní skener
+* přidat senzor na přitomnost vykládací bedny a zamezit spuštění cyklu bez její přítomnosti
+* snížit akceleraci na svařovacích servech abych se zamezilo ztrátě pozice
+* přidat počítadlo na produkované látky v boxu, zobrazit na hlavní orazovku hmi a resetovat pomocí tlačítka reset cyklus
+* přidat do hmi alarm upozorňující, že je vypnuto ovládání střižného válce
 * připravit do hmi nápovědu pro krajní pozice svařovacích serv pro bezpečné sjetí
 * doladit zobrazování alarmů na hmi
 * přidat funkci pro reset počítadla na konec cívky s páskou
