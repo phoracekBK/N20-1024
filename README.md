@@ -106,12 +106,12 @@ Přerušní a opětovné navázání pohybu zejména svařovacích serv v plnné
 
 
 ** TODO **
-* zjistit maximální svařovací pozici
-* přidat kontrolu na základě střihu pro zastavení programu pro každý projekt zvlášť, přidat do nastavení programu
-* provést kalibraci převodového poměru na podávací serva pásky
 
 
 ** DONE ** 
+* zjistit maximální svařovací pozici
+* přidat kontrolu na základě střihu pro zastavení programu pro každý projekt zvlášť, přidat do nastavení programu
+* provést kalibraci převodového poměru na podávací serva pásky
 * přidat do programu signály z třetího periferního skeneru
 * nakonfigurovat periferní skener
 * přidat senzor na přitomnost vykládací bedny a zamezit spuštění cyklu bez její přítomnosti
